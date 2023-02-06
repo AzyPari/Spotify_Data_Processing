@@ -227,6 +227,3 @@ Let’s check the logs and task details. It’s a  **scheduled task**.
 
 # Conclusion:
 
-**Note:**  We may need to change the token in our ETL python file since it expires after some time. There are some limitations to this project they can be overcome by using a refresh token to automatically renew the token and we can set up the airflow in cloud services to run 24/7 and pick data once a day making it a Daily load but to make this beginner-friendly I haven't covered those I will let those as TODO 😉.
-
-Github Repo:[https://github.com/sidharth1805/Spotify_etl](https://github.com/sidharth1805/Spotify_etl). I hope you would have enjoyed the guided project a lot. I am pretty sure that you will face a lot of issues while doing the project Stack overflow is our best friend and feel free to connect with me on  [LinkedIn](https://www.linkedin.com/in/sidharth-ramalingam/)  for any further questions. Follow me on  [medium](https://medium.com/@sidharth.ramalingam) to learn more about Data engineering stuff.
